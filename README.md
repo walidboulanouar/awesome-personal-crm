@@ -20,6 +20,7 @@ Personal CRM tools help individuals keep useful relationship context without tre
 - [folk](https://www.folk.app/) - **Proprietary.** Collaborative CRM for organizing contacts, enrichment, messaging, pipelines, and relationship workflows.
 - [harperreed/crm](https://github.com/harperreed/crm) - **Open source.** Personal CRM with web and terminal interfaces plus contact sync and automation integrations.
 - [HiHello](https://www.hihello.com/features/business-contact-manager) - **Proprietary.** Digital business card and contact management product with notes, tags, scanning, and team address book features.
+- [looot-network](https://github.com/loootai/looot-network) - **Open source.** Self-hostable app that imports LinkedIn, Google Contacts, X or CSV exports into the user's own Supabase project and searches those people in plain language, with optional paid enrichment.
 - [Mesh](https://me.sh/) - **Proprietary.** Relationship and contact network, formerly Clay, that consolidates people data, updates, notes, and reminders.
 - [Monica](https://www.monicahq.com/) - **Open source.** Personal relationship manager for recording people, interactions, reminders, and life details, available as hosted software or for self-hosting.
 - [peopleOS](https://github.com/djaiss/peopleOS) - **Open source.** Self-hostable personal CRM for keeping structured information about people and relationships.
