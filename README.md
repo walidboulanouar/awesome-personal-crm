@@ -20,6 +20,7 @@ Personal CRM tools help individuals keep useful relationship context without tre
 - [folk](https://www.folk.app/) - **Proprietary.** Collaborative CRM for organizing contacts, enrichment, messaging, pipelines, and relationship workflows.
 - [harperreed/crm](https://github.com/harperreed/crm) - **Open source.** Personal CRM with web and terminal interfaces plus contact sync and automation integrations.
 - [HiHello](https://www.hihello.com/features/business-contact-manager) - **Proprietary.** Digital business card and contact management product with notes, tags, scanning, and team address book features.
+- [Kinnetly](https://kinnetly.com/) - **Proprietary.** Personal CRM that shows contacts on an interactive relationship map, with who introduced whom, notes, activities, follow-up reminders, and CSV and vCard import and export.
 - [Mesh](https://me.sh/) - **Proprietary.** Relationship and contact network, formerly Clay, that consolidates people data, updates, notes, and reminders.
 - [Monica](https://www.monicahq.com/) - **Open source.** Personal relationship manager for recording people, interactions, reminders, and life details, available as hosted software or for self-hosting.
 - [peopleOS](https://github.com/djaiss/peopleOS) - **Open source.** Self-hostable personal CRM for keeping structured information about people and relationships.
